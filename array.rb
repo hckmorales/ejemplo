@@ -42,4 +42,5 @@ class Main
 	puts "===================="
 	puts arr.compact  #=> ['foo', 0, 'bar', 7, 'baz']
 	puts "===================="
+    puts "esto es una prueba"
 end
